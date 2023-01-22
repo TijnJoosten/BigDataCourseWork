@@ -1,3 +1,6 @@
 [submodule "bigdata-blog-2021-TijnJoosten"]
 	path = bigdata-blog-2021-TijnJoosten
 	url = https://github.com/rubigdata/bigdata-blog-2021-TijnJoosten.git
+[submodule "hello-hadoop-2021-TijnJoosten"]
+	path = hello-hadoop-2021-TijnJoosten
+	url = https://github.com/rubigdata/hello-hadoop-2021-TijnJoosten.git
