@@ -10,3 +10,6 @@
 [submodule "open-data-2021-TijnJoosten"]
 	path = open-data-2021-TijnJoosten
 	url = https://github.com/rubigdata/open-data-2021-TijnJoosten.git
+[submodule "sparkling-streams-2021-TijnJoosten"]
+	path = sparkling-streams-2021-TijnJoosten
+	url = https://github.com/rubigdata/sparkling-streams-2021-TijnJoosten.git
