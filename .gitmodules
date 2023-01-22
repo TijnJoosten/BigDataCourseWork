@@ -13,3 +13,6 @@
 [submodule "sparkling-streams-2021-TijnJoosten"]
 	path = sparkling-streams-2021-TijnJoosten
 	url = https://github.com/rubigdata/sparkling-streams-2021-TijnJoosten.git
+[submodule "cc-2021-TijnJoosten"]
+	path = cc-2021-TijnJoosten
+	url = https://github.com/rubigdata/cc-2021-TijnJoosten.git
