@@ -4,3 +4,6 @@
 [submodule "hello-hadoop-2021-TijnJoosten"]
 	path = hello-hadoop-2021-TijnJoosten
 	url = https://github.com/rubigdata/hello-hadoop-2021-TijnJoosten.git
+[submodule "hey-spark-2021-TijnJoosten"]
+	path = hey-spark-2021-TijnJoosten
+	url = https://github.com/rubigdata/hey-spark-2021-TijnJoosten.git
